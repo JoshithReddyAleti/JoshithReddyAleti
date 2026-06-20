@@ -82,7 +82,7 @@ Building agentic AI workflows and LLM-powered automation systems for enterprise 
 |---|---|
 | Production RAG knowledge base (LangChain, Pinecone, Azure OpenAI, FastAPI) | **99% search time reduction** |
 | UiPath RPA with GenAI edge case generation | **99.7% QA efficiency gain · 100% error elimination** |
-| Botathon finalist — only intern among 30+ U.S. teams | **🏆 Finalist** |
+| Botathon finalist — only Junior Dev among 30+ U.S. teams | **🏆 Finalist** |
 
 </details>
 
