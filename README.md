@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:7F77DD,100:22C55E&height=200&section=header&text=JOSHITH%20REDDY%20ALETI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%26%20Forward%20Deployed%20Engineer&descAlignY=58&descColor=ffffff&descSize=18"/>
+# 👋 JOSHITH REDDY ALETI
+### Applied AI & Forward Deployed Engineer · Atlanta, GA
+
+![](https://img.shields.io/badge/AI%20Engineer-2%2B%20Years%20Production-534AB7?style=for-the-badge) ![](https://img.shields.io/badge/Georgia%20State-3.89%20GPA%20%7C%20Magna%20Cum%20Laude-22C55E?style=for-the-badge) ![](https://img.shields.io/badge/Currently-Janus%20International-7F77DD?style=for-the-badge)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=534AB7&center=true&vCenter=true&multiline=false&random=true&width=700&lines=Building+Production+AI+Systems+%F0%9F%A4%96;RAG+Pipelines+%C2%B7+Agentic+Workflows+%C2%B7+LLM+Engineering;YOLOv8+Edge+Deployment+%C2%B7+Computer+Vision;99%25+Search+Time+Reduction+at+Fiserv+%E2%9A%A1;95%25+QA+Efficiency+Gain+at+Boehringer+Ingelheim;Multi-Agent+Systems+%C2%B7+MCP+%C2%B7+LangGraph;Atlanta%2C+GA+%C2%B7+Georgia+State+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/Building%20AI%20systems%20that%20actually%20ship-Atlanta%2C%20GA-534AB7?style=for-the-badge)
 
 </div>
 
