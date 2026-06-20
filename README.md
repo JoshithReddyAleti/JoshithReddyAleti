@@ -264,7 +264,7 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 ## 🌐 Leadership
 
-- 🇮🇳 **President, Indian Student Organisation** — organized 500+ attendee events at GSU
+- **President, Indian Student Organisation** — organized 500+ attendee events at GSU
 - ☕ **Team Lead, Saxbys Café GSU** — led a 20-member team
 - 💰 **Finance Chair, Hindu YUVA USA**
 - 🏠 **Resident Assistant, GSU**
@@ -285,8 +285,7 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoshithReddyAleti
-&theme=tokyonight&hide_border=true&background=0D1117&ring=534AB7&fire=7F77DD&currStreakLabel=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoshithReddyAleti&theme=tokyonight&hide_border=true&background=0D1117&ring=534AB7&fire=7F77DD&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 </div>
 
