@@ -256,7 +256,7 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 | 🥈 UGAHacks 2025 | 🏅 Fiserv Botathon | ⭐ CSA GenAI Star |
 |:---:|:---:|:---:|
-| 2nd Place · FinGenius | Finalist · Only intern among 30+ US teams | Top Intern · Cognizant |
+| 2nd Place · FinGenius | Finalist · Only Junior Dev among 30+ US teams | Top Intern · Cognizant |
 
 </div>
 
