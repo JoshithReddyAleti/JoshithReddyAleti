@@ -275,15 +275,18 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=7F77DD&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshithReddyAleti
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=7F77DD&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshithReddyAleti
+&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=534AB7&fire=7F77DD&currStreakLabel=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoshithReddyAleti
+&theme=tokyonight&hide_border=true&background=0D1117&ring=534AB7&fire=7F77DD&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -299,9 +302,12 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 
 | Ep | Repo | Topic |
 |:---:|:---|:---|
-| 1 | [Understanding_LLMs_From_The_Inside_Out](https://github.com/YOUR_GITHUB_USERNAME/Understanding_LLMs_From_The_Inside_Out) | What is an LLM really? |
-| 2 | [Python_For_AI_What_Actually_Matters](https://github.com/YOUR_GITHUB_USERNAME/Python_For_AI_What_Actually_Matters) | Python for AI |
-| 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/YOUR_GITHUB_USERNAME/Building_AI_Project_Blueprint_for_Beginners) | Tool calling, APIs & validation |
+| 1 | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti
+/Understanding_LLMs_From_The_Inside_Out) | What is an LLM really? |
+| 2 | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti
+/Python_For_AI_What_Actually_Matters) | Python for AI |
+| 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti
+/Building_AI_Project_Blueprint_for_Beginners) | Tool calling, APIs & validation |
 | 4+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
 
 </div>
@@ -312,9 +318,9 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshith-reddy-aleti//)
 [![Newsletter](https://img.shields.io/badge/AI_Engineering_Roadmap_2026-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshithreddy2410@gmail.com)
 
 </div>
 
