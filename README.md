@@ -327,7 +327,8 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 /Python_For_AI_What_Actually_Matters) | Python for AI |
 | 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti
 /Building_AI_Project_Blueprint_for_Beginners) | Tool calling, APIs & validation |
-| 4+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
+| 4 | [Episode_4_Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | Memory, tests & Shipping product |
+| 5+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
 
 </div>
 
