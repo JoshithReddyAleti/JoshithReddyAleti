@@ -321,12 +321,9 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 
 | Ep | Repo | Topic |
 |:---:|:---|:---|
-| 1 | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti
-/Understanding_LLMs_From_The_Inside_Out) | What is an LLM really? |
-| 2 | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti
-/Python_For_AI_What_Actually_Matters) | Python for AI |
-| 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti
-/Building_AI_Project_Blueprint_for_Beginners) | Tool calling, APIs & validation |
+| 1 | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | What is an LLM really? |
+| 2 | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | Python for AI |
+| 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project_Blueprint_for_Beginners) | Tool calling, APIs & validation |
 | 4 | [Episode_4_Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | Memory, tests & Shipping product |
 | 5+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
 
