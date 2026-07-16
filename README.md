@@ -325,11 +325,34 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 | 2 | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | Python for AI |
 | 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | Tool calling, APIs & validation |
 | 4 | [Episode_4_Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | Memory, tests & Shipping product |
-| 5+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
+| 5 | [Episode_5_Mastering_RAG_and_Augmented_Generation](https://github.com/JoshithReddyAleti/Episode_5_Mastering_RAG_and_Augmented_Generation/tree/main/Episode_5_Mastering_RAG_and_Augmented_Generation)| Types of RAG & Augmented Generation |
+| 6+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
 
 </div>
 
+## 📬 AI Engineer Interview Prep
+
+<div align="center">
+
+> *"This is where engineers stop just building but start explaining exterprise versions and tradeoffs of what they built"*
+
+I'm building a public curriculum — episode by episode — to teach real AI engineer Interview prep questions. Not tutorials. Systems & Its explainations in Interviews.
+
+| Week | Topic | Repo | Status |
+|---|---|---|---|
+| 1 | [LLM Fundamentals](Week_1_LLM_Fundamentals/) | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | ✅ |
+| 2 | [Python for AI](Week_2_Python_For_AI/) | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | ✅ |
+| 3 | [Tool Calling, APIs & Validation](Week_3_Tool_Calling_APIs_Validation/) | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | ✅ |
+| 4 | [End-to-End AI Projects](Week_4_End_To_End_AI_Projects/) | [Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | ✅ |
+| 5 | [RAG & Augmented Generation](Week_5_RAG_Augmented_Generation/) | [Mastering_RAG_and_Augmented_Generation](https://github.com/JoshithReddyAleti/Episode_5_Mastering_RAG_and_Augmented_Generation) | ✅ |
+| 6 | Frameworks — LangChain, LlamaIndex, LangGraph, CrewAI | Coming soon | 🔜 |
+| 7 | Memory & State in AI Systems | Coming soon | 🔜 |
+
+**Bonus:** [Extra Prep Questions](Extra_Prep_Questions.md) — 70+ deep-dive questions covering advanced RAG variants, embeddings, vector DBs, agents, fine-tuning, prompt engineering, evaluation, enterprise security, inference optimization, observability, multi-tenancy, and more.
+
 ---
+
+</div>
 
 ## 🤝 Connect
 
@@ -337,6 +360,7 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshith-reddy-aleti//)
 [![Newsletter](https://img.shields.io/badge/AI_Engineering_Roadmap_2026-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
+[![Newsletter](https://img.shields.io/badge/AI_Engineer_Interview_Prep-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.comengineer-interview-prep-7479719423172460544/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshithreddy2410@gmail.com)
 
 </div>
