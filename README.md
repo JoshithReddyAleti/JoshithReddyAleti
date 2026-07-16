@@ -330,7 +330,7 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 
 </div>
 
-## 📬 AI Engineer Interview Prep
+## 📬 AI Engineer Interview Prep 2026 
 
 <div align="center">
 
