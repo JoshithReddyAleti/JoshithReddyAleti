@@ -11,7 +11,7 @@
 
 ![](https://img.shields.io/badge/Building%20AI%20systems%20that%20actually%20ship-Atlanta%2C%20GA-534AB7?style=for-the-badge)
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=JoshithReddyAleti&color=534AB7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=JoshithReddyAleti&color=534AB7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -296,6 +296,9 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshithReddyAleti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=7F77DD&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshithReddyAleti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=ffffff"/>
 
 </div>
 
