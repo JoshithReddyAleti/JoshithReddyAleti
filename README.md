@@ -296,9 +296,6 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshithReddyAleti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=7F77DD&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshithReddyAleti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=ffffff"/>
 
 </div>
 
