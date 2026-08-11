@@ -11,6 +11,8 @@
 
 ![](https://img.shields.io/badge/Building%20AI%20systems%20that%20actually%20ship-Atlanta%2C%20GA-534AB7?style=for-the-badge)
 
+![Profile Views](https://komarev.com/ghpvc/?username=JoshithReddyAleti&color=534AB7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -184,18 +186,18 @@ Teaching the next generation of AI engineers — tool calling, validation, agent
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=white) 
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white) 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black) 
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 **Power Platform & RPA**
 
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) 
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) 
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 **Languages**
@@ -215,7 +217,7 @@ Teaching the next generation of AI engineers — tool calling, validation, agent
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Cloud & Data**
@@ -226,7 +228,7 @@ Teaching the next generation of AI engineers — tool calling, validation, agent
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white) 
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **DevOps & Tools**
@@ -235,7 +237,6 @@ Teaching the next generation of AI engineers — tool calling, validation, agent
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 </div>
 
@@ -295,11 +296,9 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshithReddyAleti
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=7F77DD&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshithReddyAleti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=7F77DD&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshithReddyAleti
-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshithReddyAleti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=ffffff"/>
 
 </div>
 
@@ -319,48 +318,70 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 I'm building a public curriculum — episode by episode — to teach real AI engineering. Not tutorials. Systems.
 
-| Ep | Repo | Topic |
-|:---:|:---|:---|
-| 1 | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | What is an LLM really? |
-| 2 | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | Python for AI |
-| 3 | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | Tool calling, APIs & validation |
-| 4 | [Episode_4_Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | Memory, tests & Shipping product |
-| 5 | [Episode_5_Mastering_RAG_and_Augmented_Generation](https://github.com/JoshithReddyAleti/Episode_5_Mastering_RAG_and_Augmented_Generation/tree/main/Episode_5_Mastering_RAG_and_Augmented_Generation)| Types of RAG & Augmented Generation |
-| 6+ | Coming soon | [Subscribe to the newsletter →](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) |
+[![Subscribe](https://img.shields.io/badge/Subscribe_to_Newsletter-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
+
+| Ep | Topic | Repo | Status |
+|:---:|:---|:---|:---:|
+| 1 | Understanding LLMs From The Inside Out | [Repo](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | ✅ |
+| 2 | Python For AI — What Actually Matters | [Repo](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | ✅ |
+| 3 | Tool Calling, APIs & Validation | [Repo](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | ✅ |
+| 4 | Your First End-To-End AI Project | [Repo](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project) | ✅ |
+| 5 | Mastering RAG & Augmented Generation | [Repo](https://github.com/JoshithReddyAleti/Mastering_RAG_and_Augmented_Generation) | ✅ |
+| 6 | AI Frameworks & Fine-Tuning Complete Guide | [Repo](https://github.com/JoshithReddyAleti/Episode_6_AI_Frameworks_and_Fine_Tuning_Complete_Guide) | ✅ |
+| 7 | Memory & State in AI Systems | [Repo](https://github.com/JoshithReddyAleti/Episode_7_Memory_and_State_in_AI_Systems) | ✅ |
+| 8 | AI Evaluation, Validation & Governance | [Repo](https://github.com/JoshithReddyAleti/Episode_8_AI_Evaluation_Validation_and_Governance) | ✅ |
+| 9 | Agents — When AI Systems Make Decisions | [Repo](https://github.com/JoshithReddyAleti/Episode_9_Agents_When_AI_Systems_Make_Decisions) | ✅ |
+| 10 | Deployment — Taking AI Systems to Production | [Repo](https://github.com/JoshithReddyAleti/Episode_10_Deployment_Taking_AI_Systems_to_Production) | ✅ |
+| 11 | Observability — Knowing What Your AI Is Doing | [Repo](https://github.com/JoshithReddyAleti/Episode_11_Observability_Knowing_What_Your_AI_is_Doing) | ✅ |
+| 12 | Inference & Model Serving | [Repo](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) | ✅ |
+| 13 | Fine-Tuning & Multimodal — The Training Layer | [Repo](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) | ✅ |
+| 14 | The Discipline Layer — Data Eng, Prompt Eng, Security, A/B Testing | [Repo](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) | ✅ |
+| 15+ | Agentic AI Roadmap 2027 | Coming next series | 🔜 |
 
 </div>
-
-## 📬 AI Engineer Interview Prep 2026 
-
-<div align="center">
-
-> *"This is where engineers stop just building but start explaining exterprise versions and tradeoffs of what they built"*
-
-I'm building a public curriculum — episode by episode — to teach real AI engineer Interview prep questions. Not tutorials. Systems & Its explainations in Interviews.
-
-| Week | Topic | Repo | Status |
-|---|---|---|---|
-| 1 | [LLM Fundamentals](Week_1_LLM_Fundamentals/) | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | ✅ |
-| 2 | [Python for AI](Week_2_Python_For_AI/) | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | ✅ |
-| 3 | [Tool Calling, APIs & Validation](Week_3_Tool_Calling_APIs_Validation/) | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | ✅ |
-| 4 | [End-to-End AI Projects](Week_4_End_To_End_AI_Projects/) | [Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | ✅ |
-| 5 | [RAG & Augmented Generation](Week_5_RAG_Augmented_Generation/) | [Mastering_RAG_and_Augmented_Generation](https://github.com/JoshithReddyAleti/Episode_5_Mastering_RAG_and_Augmented_Generation) | ✅ |
-| 6 | Frameworks — LangChain, LlamaIndex, LangGraph, CrewAI | Coming soon | 🔜 |
-| 7 | Memory & State in AI Systems | Coming soon | 🔜 |
-
-**Bonus:** [Extra Prep Questions](Extra_Prep_Questions.md) — 70+ deep-dive questions covering advanced RAG variants, embeddings, vector DBs, agents, fine-tuning, prompt engineering, evaluation, enterprise security, inference optimization, observability, multi-tenancy, and more.
 
 ---
 
+## 🎯 AI Engineer Interview Prep 2026
+
+<div align="center">
+
+> *"This is where engineers stop just building — and start explaining enterprise versions and trade-offs of what they built."*
+
+1,068+ questions across 14 weeks. MAANG-calibrated. Production-depth. The companion to the roadmap above.
+
+[![Interview Prep Repo](https://img.shields.io/badge/AI_Engineer_Interview_Prep-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep)
+
+| Week | Topic | Maps To Episode | Status |
+|:---:|:---|:---:|:---:|
+| 1 | [LLM Fundamentals](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_1_LLM_Fundamentals) | [Ep 1](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | ✅ |
+| 2 | [Python for AI](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_2_Python_For_AI) | [Ep 2](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | ✅ |
+| 3 | [Tool Calling, APIs & Validation](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_3_Tool_Calling_APIs_Validation) | [Ep 3](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | ✅ |
+| 4 | [End-to-End AI Projects](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_4_End_To_End_AI_Projects) | [Ep 4](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project) | ✅ |
+| 5 | [RAG & Augmented Generation](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_5_RAG_Augmented_Generation) | [Ep 5](https://github.com/JoshithReddyAleti/Mastering_RAG_and_Augmented_Generation) | ✅ |
+| 6 | [Frameworks & Fine-Tuning](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_6_Frameworks_and_FineTuning) | [Ep 6](https://github.com/JoshithReddyAleti/Episode_6_AI_Frameworks_and_Fine_Tuning_Complete_Guide) | ✅ |
+| 7 | [Memory & State](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_7_Memory_and_State) | [Ep 7](https://github.com/JoshithReddyAleti/Episode_7_Memory_and_State_in_AI_Systems) | ✅ |
+| 8 | [Evaluation & Governance](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_8_Evaluation_and_Governance) | [Ep 8](https://github.com/JoshithReddyAleti/Episode_8_AI_Evaluation_Validation_and_Governance) | ✅ |
+| 9 | [Agents](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_9_Agents) | [Ep 9](https://github.com/JoshithReddyAleti/Episode_9_Agents_When_AI_Systems_Make_Decisions) | ✅ |
+| 10 | [Deployment](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_10_Deployment) | [Ep 10](https://github.com/JoshithReddyAleti/Episode_10_Deployment_Taking_AI_Systems_to_Production) | ✅ |
+| 11 | [Observability](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_11_Observability) | [Ep 11](https://github.com/JoshithReddyAleti/Episode_11_Observability_Knowing_What_Your_AI_is_Doing) | ✅ |
+| 12 | [Inference & Model Serving](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_12_Inference_and_Model_Serving) | [Ep 12](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) | ✅ |
+| 13 | [Fine-Tuning & Multimodal](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_13_FineTuning_and_Multimodal) | [Ep 13](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) | ✅ |
+| 14 | [The Discipline Layer](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_14_Discipline_Layer) | [Ep 14](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) | ✅ |
+
+**Bonus:** [Extra Prep Questions](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/blob/main/Extra_Prep_Questions.md) — 70+ deep-dive questions covering advanced RAG, embeddings, vector DBs, agents, fine-tuning, prompt engineering, evaluation, enterprise security, inference optimization, observability, multi-tenancy, and more.
+
 </div>
+
+---
 
 ## 🤝 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshith-reddy-aleti//)
-[![Newsletter](https://img.shields.io/badge/AI_Engineering_Roadmap_2026-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
-[![Newsletter](https://img.shields.io/badge/AI_Engineer_Interview_Prep-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.comengineer-interview-prep-7479719423172460544/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshith-reddy-aleti/)
+[![AI Roadmap Newsletter](https://img.shields.io/badge/AI_Engineering_Roadmap_2026-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
+[![Interview Prep](https://img.shields.io/badge/AI_Engineer_Interview_Prep-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshithreddy2410@gmail.com)
 
 </div>
