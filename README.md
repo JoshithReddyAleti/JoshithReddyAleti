@@ -11,7 +11,7 @@
 
 ![](https://img.shields.io/badge/Building%20AI%20systems%20that%20actually%20ship-Atlanta%2C%20GA-534AB7?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoshithReddyAleti&color=534AB7&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=JoshithReddyAleti&color=534AB7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
