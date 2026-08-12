@@ -336,7 +336,7 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 | 12 | Inference & Model Serving | [Repo](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) | ✅ |
 | 13 | Fine-Tuning & Multimodal — The Training Layer | [Repo](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) | ✅ |
 | 14 | The Discipline Layer — Data Eng, Prompt Eng, Security, A/B Testing | [Repo](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) | ✅ |
-| 15+ | Agentic AI Roadmap 2027 | Coming next series | 🔜 |
+
 
 </div>
 
