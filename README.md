@@ -39,7 +39,7 @@ joshith = {
     "currently":   "AI & Automation Engineer @ Janus International",
     "building":    ["Agentic workflows", "LLM-powered automation", "Enterprise AI systems"],
     "experience":  "2+ years · Janus · Boehringer Ingelheim · Fiserv · Cognizant",
-    "newsletter":  "AI Engineering Roadmap 2026 (LinkedIn)",
+    "newsletter":  "AI Engineering Roadmap 2026 (LinkedIn) · 16 episodes complete",
     "superpower":  "Turning AI demos into production systems that actually ship",
 }
 ```
@@ -163,7 +163,7 @@ The most complex system I've built.
 ### 🎯 AI Engineering Roadmap 2026
 **LinkedIn Newsletter + GitHub Series**
 
-Teaching the next generation of AI engineers — tool calling, validation, agentic systems, RAG. Episode by episode.
+Complete. 16 episodes. From LLM internals to the enterprise security capstone — the bridge to Agentic AI 2027.
 
 [→ Subscribe](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
 
@@ -310,13 +310,13 @@ President's List (4.27 GPA, Summer 2025) · Dean's List every other semester
 
 ---
 
-## 📬 AI Engineering Roadmap 2026
+## 📬 AI Engineering Roadmap 2026 — Complete
 
 <div align="center">
 
 > *"This is where beginners stop learning… and start engineering."*
 
-I'm building a public curriculum — episode by episode — to teach real AI engineering. Not tutorials. Systems.
+16 episodes. From LLM internals to the enterprise security capstone. The bridge from AI engineering to the Agentic AI Roadmap 2027.
 
 [![Subscribe](https://img.shields.io/badge/Subscribe_to_Newsletter-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
 
@@ -336,19 +336,20 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 | 12 | Inference & Model Serving | [Repo](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) | ✅ |
 | 13 | Fine-Tuning & Multimodal — The Training Layer | [Repo](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) | ✅ |
 | 14 | The Discipline Layer — Data Eng, Prompt Eng, Security, A/B Testing | [Repo](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) | ✅ |
-
+| 15 | The Missing Layer — App Architecture, Cost Engineering, Reasoning & Compliance | [Repo](https://github.com/JoshithReddyAleti/Episode_15_The_Missing_Layer) | ✅ |
+| 16 | The Security Layer *(bonus / capstone)* — Risk Tiering, STRIDE/MAESTRO/ATLAS, Guardrails, Policy-as-Code, Agentic Security | [Repo](https://github.com/JoshithReddyAleti/Episode_16_The_Security_Layer) | ✅ |
 
 </div>
 
 ---
 
-## 🎯 AI Engineer Interview Prep 2026
+## 🎯 AI Engineer Interview Prep 2026 — Complete
 
 <div align="center">
 
 > *"This is where engineers stop just building — and start explaining enterprise versions and trade-offs of what they built."*
 
-1,068+ questions across 14 weeks. MAANG-calibrated. Production-depth. The companion to the roadmap above.
+**1,429+ questions across 16 weeks.** MAANG-calibrated. Production-depth. The companion to the roadmap above.
 
 [![Interview Prep Repo](https://img.shields.io/badge/AI_Engineer_Interview_Prep-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep)
 
@@ -368,8 +369,22 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 | 12 | [Inference & Model Serving](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_12_Inference_and_Model_Serving) | [Ep 12](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) | ✅ |
 | 13 | [Fine-Tuning & Multimodal](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_13_FineTuning_and_Multimodal) | [Ep 13](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) | ✅ |
 | 14 | [The Discipline Layer](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_14_Discipline_Layer) | [Ep 14](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) | ✅ |
+| 15 | [The Missing Layer](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_15_The_Missing_Layer) | [Ep 15](https://github.com/JoshithReddyAleti/Episode_15_The_Missing_Layer) | ✅ |
+| 16 | [The Security Layer *(capstone)*](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_16_The_Security_Layer) | [Ep 16](https://github.com/JoshithReddyAleti/Episode_16_The_Security_Layer) | ✅ |
 
 **Bonus:** [Extra Prep Questions](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/blob/main/Extra_Prep_Questions.md) — 70+ deep-dive questions covering advanced RAG, embeddings, vector DBs, agents, fine-tuning, prompt engineering, evaluation, enterprise security, inference optimization, observability, multi-tenancy, and more.
+
+</div>
+
+---
+
+## 🤖 Next: Agentic AI Roadmap 2027
+
+<div align="center">
+
+> *"From building AI to architecting autonomous agents."*
+
+The 2026 series ends at the security capstone and hands off to the next frontier. 
 
 </div>
 
@@ -382,6 +397,7 @@ I'm building a public curriculum — episode by episode — to teach real AI eng
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshith-reddy-aleti/)
 [![AI Roadmap Newsletter](https://img.shields.io/badge/AI_Engineering_Roadmap_2026-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
 [![Interview Prep](https://img.shields.io/badge/AI_Engineer_Interview_Prep-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep)
+[![Agentic 2027](https://img.shields.io/badge/Agentic_AI_2027-191919?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshithReddyAleti/Agentic_AI_roadmap)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshithreddy2410@gmail.com)
 
 </div>
